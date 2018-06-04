@@ -91,7 +91,7 @@ http://ggrna.dbcls.jp/
 ### 【実習5】Dataset browserを利用して、GEOに登録されているマイクロアレイデータを解析する 
 - [【統合TV】NCBI GEOの使い方3～データセットブラウザの使い方1～ 2012](http://togotv.dbcls.jp/20120128.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
 - [【統合TV】NCBI GEOの使い方4～データセットブラウザの使い方2～ 2012](http://togotv.dbcls.jp/20120227.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
-1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/)を開きます。
+1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
 1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
 1. GEOに登録されている様々な実験条件で行なわれたマイクロアレイ実験における「nanog」遺伝子の発現データが表示されます。
@@ -100,15 +100,15 @@ http://ggrna.dbcls.jp/
 1. 検索窓に表示されているアクセッション番号の後に続けて遺伝子名を追加（今回は例として [Oct4](http://www.google.co.jp/search?q=Oct4) ）すると、この実験データセット内におけるその遺伝子の発現データが検索できます。
 1. 「データセットブラウザ」の「[Data Analysis Tools](http://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3262#details)」では詳細なデータ解析が可能です。
 1. 「Find gene name or symbol:」のところに自分の興味ある遺伝子名を入れてみましょう。
-- 10. 「Find genes that are up/down for this condition(s):」の「GO」をクリックするとどのような遺伝子がヒットするでしょうか。
-- 11. 「Compare 2 sets of samples」では2群間で発現に差のある遺伝子を（統計学的に）検索できます。step1で発現量の違いを検出する方法を設定します。step.2で比較する2群の設定をします。step.3の「Query Group A vs. B」をクリックすると、検索が始まります。
-- 12. 「Cluster heatmaps」では、マイクロアレイデータ解析でよく用いられる[ヒートマップ](http://images.google.co.jp/images?q=ヒートマップ)でのデータ表示が行なえます。分類方法としてHierarchical、Partitional (K-means/K-medians)、By location on chromosomeの3種類が選べますが、それぞれどのようにデータが分類されるか試してみましょう。
-- 13. ヒートマップ上をクリックすると領域選択が開始されます。リサイズや移動で範囲を決定した後、Stack up をクリックすると選択した範囲が拡大されます。 
-- 14. サンプルの内容とIDの対応は、元のページに戻って、Sample Subsets から確認できます。
-- 15. さらに範囲選択して、Plot values をクリックすると、各遺伝子のサンプルごとの発現の様子がプロットで確認できます。 
-- 16. 範囲選択して、View in Entrez をクリックすると、選択範囲内のデータを棒グラフで見られます。 
-- 17. 範囲選択して、Download をクリックすると、選択範囲内のデータがテキスト形式でダウンロードできます。 
-- 18.  「Experiment design and value distribution」では実験データにおける発現の分布を参照できます。これにより、各サンプルのデータが互いに比較可能か（実験上のミスがないか）チェックすることができます。
+1. 「Find genes that are up/down for this condition(s):」の「GO」をクリックするとどのような遺伝子がヒットするでしょうか。
+1. 「Compare 2 sets of samples」では2群間で発現に差のある遺伝子を（統計学的に）検索できます。step1で発現量の違いを検出する方法を設定します。step.2で比較する2群の設定をします。step.3の「Query Group A vs. B」をクリックすると、検索が始まります。
+1. 「Cluster heatmaps」では、マイクロアレイデータ解析でよく用いられる[ヒートマップ](http://images.google.co.jp/images?q=ヒートマップ)でのデータ表示が行なえます。分類方法としてHierarchical、Partitional (K-means/K-medians)、By location on chromosomeの3種類が選べますが、それぞれどのようにデータが分類されるか試してみましょう。
+1. ヒートマップ上をクリックすると領域選択が開始されます。リサイズや移動で範囲を決定した後、Stack up をクリックすると選択した範囲が拡大されます。 
+1. サンプルの内容とIDの対応は、元のページに戻って、Sample Subsets から確認できます。
+1. さらに範囲選択して、Plot values をクリックすると、各遺伝子のサンプルごとの発現の様子がプロットで確認できます。 
+1. 範囲選択して、View in Entrez をクリックすると、選択範囲内のデータを棒グラフで見られます。 
+1. 範囲選択して、Download をクリックすると、選択範囲内のデータがテキスト形式でダウンロードできます。 
+1.  「Experiment design and value distribution」では実験データにおける発現の分布を参照できます。これにより、各サンプルのデータが互いに比較可能か（実験上のミスがないか）チェックすることができます。
 
 ### 【実習6】GEOを使って、自分の興味のあるマイクロアレイ実験データセットを検索&生データをダウンロードする 
 - [【統合TV】NCBI GEOの使い方1～マイクロアレイデータの検索・取得～ 2011](http://togotv.dbcls.jp/20110711.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
@@ -121,8 +121,8 @@ http://ggrna.dbcls.jp/
 1. ブラウザの検索ボタンなどを使って「reprogramming」という単語を検索するとどういうデータがヒットするでしょうか？
 1. ヒットしたデータの左端にあるIDをクリックすると、[そのデータセットの詳細情報](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9832)が閲覧できます
 1. ページ下部の「Download family」の中にある「Series Matrix File(s)」をクリックすると正規化済みのデータのダウンロードリンクが表示されます。
-- 10. ページ最下部の「Supplementary file」にあるリンクから生データをダウンロードすることができます。
-- 11. 自分の研究テーマに近い、また興味のあるマイクロアレイデータが利用可能か検索してみましょう。
+1. ページ最下部の「Supplementary file」にあるリンクから生データをダウンロードすることができます。
+1. 自分の研究テーマに近い、また興味のあるマイクロアレイデータが利用可能か検索してみましょう。
 
 ## [遺伝子発現バンク(GEO)目次、通称「GEO目次」](http://lifesciencedb.jp/geo/) 
 - [使い方参考動画 遺伝子発現バンク(GEO)目次を使い倒す－その壱](http://togotv.dbcls.jp/20080623.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
