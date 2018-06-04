@@ -30,10 +30,13 @@
 	- Symbolは慣用名と一致しないこともある（ヒトp53 → TP53）
 	- 種でダブる可能性も
 	- Gene ID は種と遺伝子を特定できる
-, 慣用名 , Symbol , Gene ID&#160;
-, ヒトcadherin , CDH1 , 999&#160;
-, マウスcadherin , Cdh1 , 12550&#160;
-, ラットcadherin , Cdh1 , 83502&#160;
+	
+| 慣用名 | Symbol | Gene ID |
+|----|----|---:|
+| ヒトcadherin | CDH1 | 999 |
+| マウスcadherin | Cdh1 | 12550 |
+| ラットcadherin | Cdh1 | 83502 |
+ 
 1. それぞれの関係
 ## ref(IDs.png)
 
