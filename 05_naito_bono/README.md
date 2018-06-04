@@ -133,7 +133,7 @@ http://ggrna.dbcls.jp/
 - 検索結果のRSS配信機能があるので、これを活用して、遺伝子発現データの新規登録の有無をチェックできる！
 
 ## [DAVID: The Database for Annotation, Visualization and Integrated Discovery](http://david.abcc.ncifcrf.gov/) 
-&color(green){マイクロアレイデータの生物学的な解釈};
+マイクロアレイデータの生物学的な解釈
 
 http://david.abcc.ncifcrf.gov/
 
