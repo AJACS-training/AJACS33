@@ -78,7 +78,7 @@ http://ggrna.dbcls.jp/
 
 ### 【実習4】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる 
 - [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
-1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/)を開きます。
+1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
 1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
 1. GEOに登録されている様々な実験条件で行なわれたマイクロアレイ実験における「nanog」遺伝子の発現データが表示されます。
