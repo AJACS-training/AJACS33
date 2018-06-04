@@ -138,7 +138,9 @@ http://ggrna.dbcls.jp/
 http://david.abcc.ncifcrf.gov/
 
 - マイクロアレイ実験の一般的な目的は、実験条件によって得られたある遺伝子群の発現が生物学的にどういう意味を持つかを考えることです。
-## ref(AJACS14/thecla/microarray.analysis.005.png)
+
+![](microarray.analysis.005.png)
+
 - 今回は、その方法の一つとして、マイクロアレイの結果に[Gene Ontology](http://www.google.co.jp/url?sa=t&source=web&cd=4&ved=0CEEQFjAD&url=http%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E9%2581%25BA%25E4%25BC%259D%25E5%25AD%2590%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC&ei=ve9QTd6XMtG6cbeW1KUH&usg=AFQjCNF8U-O4ktlMGoR9DNC0wKltmbjtmw) の用語を付与することで、生物学的な解釈を行います。
 - [【統合TV】DAVIDを使ってマイクロアレイデータを解析する(※これも古いので近日中に番組アップデート予定)](http://togotv.dbcls.jp/20090925.html#p01) 
 
