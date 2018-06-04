@@ -71,7 +71,8 @@ http://ggrna.dbcls.jp/
 	- プローブセットと呼ぶ。例：262888_at → [GGRNAで検索](http://ggrna.dbcls.jp/at/search.cgi?query=262888_at)
 		- PM (perfect match) probe
 		- MM (mismatch) probe (補正に使う)
-## ref(Affyprobe.png)
+
+![](Affyprobe.png)
 
 ----
 
