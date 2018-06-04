@@ -78,7 +78,7 @@ http://ggrna.dbcls.jp/
 世界最大の遺伝子発現（[マイクロアレイ](http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4)）データベース（レポジトリ）
 
 ### 【実習4】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる 
-- [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01) 
+- [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01)
 1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
 1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
