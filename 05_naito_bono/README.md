@@ -8,7 +8,7 @@
 ### 遺伝子をさがす（基礎） 
 - NCBI Entrez -- http://www.ncbi.nlm.nih.gov/ → Nucleotideで検索
 - 絞り込み
-	- 検索窓にキーワードを追加、ブラケットでフィールド指定
+	- 検索窓にキーワードを追加、ブラケットでフィールド<b>指定</b>
 		- ... AND “Homo sapiens”[Organism] (ダブルクオートでフレーズ検索)
 		- ... AND Vimentin[Gene Name]
 		- ... AND patent[Title]
