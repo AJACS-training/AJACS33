@@ -80,7 +80,7 @@ http://ggrna.dbcls.jp/
 ### 【実習4】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる 
 - [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01)
 1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
-1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
+1. 「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
 1. GEOに登録されている様々な実験条件で行なわれたマイクロアレイ実験における「nanog」遺伝子の発現データが表示されます。
 1. 検索結果の右端にある画像をクリックすると、[発現データの詳細をみる](http://www.ncbi.nlm.nih.gov/geo/tools/profileGraph.cgi?ID=GDS3262:220184_at)ことができます。
@@ -93,7 +93,7 @@ http://ggrna.dbcls.jp/
 - [【統合TV】NCBI GEOの使い方3～データセットブラウザの使い方1～ 2012](http://togotv.dbcls.jp/20120128.html#p01) 
 - [【統合TV】NCBI GEOの使い方4～データセットブラウザの使い方2～ 2012](http://togotv.dbcls.jp/20120227.html#p01) 
 1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
-1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
+1. 「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
 1. GEOに登録されている様々な実験条件で行なわれたマイクロアレイ実験における「nanog」遺伝子の発現データが表示されます。
 1. 検索結果の[アクセッション番号（今回は GDS3262）](http://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3262)をクリックすると、解析用の「データセットブラウザ」が開きます。
