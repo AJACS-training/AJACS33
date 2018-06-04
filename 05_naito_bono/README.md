@@ -48,7 +48,7 @@
 
 ### 統合遺伝子検索GGRNA 
 http://ggrna.dbcls.jp/
-- [【統合TV】GGRNAで遺伝子をGoogleのように検索する](http://togotv.dbcls.jp/20120124.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
+- [【統合TV】GGRNAで遺伝子をGoogleのように検索する](http://togotv.dbcls.jp/20120124.html#p01) 
 - [【新着レビュー】統合遺伝子検索GGRNA：遺伝子をGoogleのように検索できるウェブサーバ](http://first.lifesciencedb.jp/from_dbcls/e0001)
 - GGRNAとは？
 	- RefSeqを全文検索
@@ -64,6 +64,7 @@ http://ggrna.dbcls.jp/
 		- DGCR8, NM_001190326, 402bp
 		- DGCR8, NM_022720, 501bp
 		- 同じ遺伝子の2つのvariantが増えてしまったらしい。
+
 - 【実習3】マイクロアレイのプローブの場所を知りたい。
 	- Affymetrix社 GeneChipマイクロアレイの場合、1遺伝子につき25塩基×11対のプローブで検出
 	- プローブセットと呼ぶ。例：262888_at → [GGRNAで検索](http://ggrna.dbcls.jp/at/search.cgi?query=262888_at)
@@ -77,7 +78,7 @@ http://ggrna.dbcls.jp/
 世界最大の遺伝子発現（[マイクロアレイ](http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4)）データベース（レポジトリ）
 
 ### 【実習4】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる 
-- [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
+- [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01) 
 1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
 1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
@@ -89,8 +90,8 @@ http://ggrna.dbcls.jp/
 1. [この実験全体の詳細情報ページ](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10615)の下部にある[「Series Matrix File(s)」](ftp://ftp.ncbi.nih.gov/pub/geo/DATA/SeriesMatrix/GSE10615/)をクリックすると、この実験の正規化補正済みのマイクロアレイデータをダウンロードすることができます。
 
 ### 【実習5】Dataset browserを利用して、GEOに登録されているマイクロアレイデータを解析する 
-- [【統合TV】NCBI GEOの使い方3～データセットブラウザの使い方1～ 2012](http://togotv.dbcls.jp/20120128.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
-- [【統合TV】NCBI GEOの使い方4～データセットブラウザの使い方2～ 2012](http://togotv.dbcls.jp/20120227.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
+- [【統合TV】NCBI GEOの使い方3～データセットブラウザの使い方1～ 2012](http://togotv.dbcls.jp/20120128.html#p01) 
+- [【統合TV】NCBI GEOの使い方4～データセットブラウザの使い方2～ 2012](http://togotv.dbcls.jp/20120227.html#p01) 
 1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
 1.「Gene profiles」に自分の検索したい遺伝子名を入力します。
 1. 今回は例として「[nanog](http://www.google.co.jp/search?hl=ja&q=Nanog%E9%81%BA%E4%BC%9D%E5%AD%90)」という遺伝子を検索してみましょう。入力終了後、「GO」をクリックします。
@@ -98,7 +99,7 @@ http://ggrna.dbcls.jp/
 1. 検索結果の[アクセッション番号（今回は GDS3262）](http://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3262)をクリックすると、解析用の「データセットブラウザ」が開きます。
 1. 「[Expression profiles](http://www.ncbi.nlm.nih.gov/geoprofiles?term=GDS3262[ACCN)]」をクリックすると、[この実験データセットにおける個々の遺伝子発現状況を検索できるページ](http://www.ncbi.nlm.nih.gov/sites/entrez?db=geo&cmd=search&term=GDS2294[ACCN)に飛びます。
 1. 検索窓に表示されているアクセッション番号の後に続けて遺伝子名を追加（今回は例として [Oct4](http://www.google.co.jp/search?q=Oct4) ）すると、この実験データセット内におけるその遺伝子の発現データが検索できます。
-1. 「データセットブラウザ」の「[Data Analysis Tools](http://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3262#details)」では詳細なデータ解析が可能です。
+1. 「データセットブラウザ」の「[Data Analysis Tools](http://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3262#details) 」では詳細なデータ解析が可能です。
 1. 「Find gene name or symbol:」のところに自分の興味ある遺伝子名を入れてみましょう。
 1. 「Find genes that are up/down for this condition(s):」の「GO」をクリックするとどのような遺伝子がヒットするでしょうか。
 1. 「Compare 2 sets of samples」では2群間で発現に差のある遺伝子を（統計学的に）検索できます。step1で発現量の違いを検出する方法を設定します。step.2で比較する2群の設定をします。step.3の「Query Group A vs. B」をクリックすると、検索が始まります。
@@ -111,8 +112,8 @@ http://ggrna.dbcls.jp/
 1.  「Experiment design and value distribution」では実験データにおける発現の分布を参照できます。これにより、各サンプルのデータが互いに比較可能か（実験上のミスがないか）チェックすることができます。
 
 ### 【実習6】GEOを使って、自分の興味のあるマイクロアレイ実験データセットを検索&生データをダウンロードする 
-- [【統合TV】NCBI GEOの使い方1～マイクロアレイデータの検索・取得～ 2011](http://togotv.dbcls.jp/20110711.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
-1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/)を開きます。
+- [【統合TV】NCBI GEOの使い方1～マイクロアレイデータの検索・取得～ 2011](http://togotv.dbcls.jp/20110711.html#p01) 
+1. [http://www.ncbi.nlm.nih.gov/geo/](http://www.ncbi.nlm.nih.gov/geo/) を開きます。
 1. 画面中央の「Platforms」をクリックします。
 1. Platform(マイクロアレイの種類)の一覧画面が現れるので、上部の「FIND PLATFORM」をクリックします。
 1. [platformの検索画面](http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=findplatform)が現れるので、「Company name」に「Affymetrix」、「organism」に「Homo sapiens」を選択し、「FIND PLATFORM」をクリックします。
@@ -125,7 +126,7 @@ http://ggrna.dbcls.jp/
 1. 自分の研究テーマに近い、また興味のあるマイクロアレイデータが利用可能か検索してみましょう。
 
 ## [遺伝子発現バンク(GEO)目次、通称「GEO目次」](http://lifesciencedb.jp/geo/) 
-- [使い方参考動画 遺伝子発現バンク(GEO)目次を使い倒す－その壱](http://togotv.dbcls.jp/20080623.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
+- [使い方参考動画 遺伝子発現バンク(GEO)目次を使い倒す－その壱](http://togotv.dbcls.jp/20080623.html#p01) 
 - NCBI GEO を日本語のインターフェイスで快適に使い、データの全容を俯瞰するための仕組みです。数多く登録されている遺伝子発現データの大まかな傾向をつかむのに役に立つことでしょう。
 - 検索結果のRSS配信機能があるので、これを活用して、遺伝子発現データの新規登録の有無をチェックできる！
 
@@ -136,17 +137,17 @@ http://david.abcc.ncifcrf.gov/
 
 - マイクロアレイ実験の一般的な目的は、実験条件によって得られたある遺伝子群の発現が生物学的にどういう意味を持つかを考えることです。
 ## ref(AJACS14/thecla/microarray.analysis.005.png)
-- 今回は、その方法の一つとして、マイクロアレイの結果に[Gene Ontology](http://www.google.co.jp/url?sa=t&source=web&cd=4&ved=0CEEQFjAD&url=http%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E9%2581%25BA%25E4%25BC%259D%25E5%25AD%2590%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC&ei=ve9QTd6XMtG6cbeW1KUH&usg=AFQjCNF8U-O4ktlMGoR9DNC0wKltmbjtmw)の用語を付与することで、生物学的な解釈を行います。
-- [【統合TV】DAVIDを使ってマイクロアレイデータを解析する(※これも古いので近日中に番組アップデート予定)](http://togotv.dbcls.jp/20090925.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
+- 今回は、その方法の一つとして、マイクロアレイの結果に[Gene Ontology](http://www.google.co.jp/url?sa=t&source=web&cd=4&ved=0CEEQFjAD&url=http%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E9%2581%25BA%25E4%25BC%259D%25E5%25AD%2590%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC&ei=ve9QTd6XMtG6cbeW1KUH&usg=AFQjCNF8U-O4ktlMGoR9DNC0wKltmbjtmw) の用語を付与することで、生物学的な解釈を行います。
+- [【統合TV】DAVIDを使ってマイクロアレイデータを解析する(※これも古いので近日中に番組アップデート予定)](http://togotv.dbcls.jp/20090925.html#p01) 
 
 ### マイクロアレイデータの準備 
-サンプルデータとして、[NCBI GEO](http://www.ncbi.nlm.nih.gov/geo/)より取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。
+サンプルデータとして、[NCBI GEO](http://www.ncbi.nlm.nih.gov/geo/) より取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。
 ## ref(AJACS24/hono/110208_IDlist.txt,left)
 （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 &br;
 このデータは、どのような実験から得られたデータなのか、どのように解釈できるのかをDAVIDを使って考察してみましょう！
 
-### 【実習7】DAVIDを用いて、発現データの結果を生物学的に解釈する [#v732ec60]
+### 【実習7】DAVIDを用いて、発現データの結果を生物学的に解釈する
 1. 上部メニューの「Start Analysis」をクリックします。
 1. 画面左側バーで、probe IDリストをコピペ or ファイルを指定します。
 1. リストのIDの種類タイプを選択します。 … 今回は、「AFFYMETRIX_3PRIME_IVT_ID」と「Gene List」
@@ -158,7 +159,7 @@ http://david.abcc.ncifcrf.gov/
 1. P-value を2回クリックしてp-valueが小さい（統計的に有意である）順にしてみましょう … p-value小さい順は、一度やればしばらく覚えているので、次からはしばらくは必要ないです
 ## fold(結果,#ref(AJACS24/hono/david_go_bp.png));
 - [応用編] Pathways > KEGG_PATHWAY や Tissue Expression > UP_TISSUE なども見てみましょう。生物学的にどういうことが言えるでしょうか。
-### fold(サンプルデータの答え,Arabidopsis thaliana (シロイヌナズナ)の植物細胞と細胞壁分解酵素を用いて取り除いた植物細胞（[プロトプラスト](http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88)）との比較（植物細胞の[脱分化](http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%82%B9_%28%E6%A4%8D%E7%89%A9%29)前・後）[GSE15515](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15515));
+### fold(サンプルデータの答え,Arabidopsis thaliana (シロイヌナズナ)の植物細胞と細胞壁分解酵素を用いて取り除いた植物細胞（[プロトプラスト](http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88) ）との比較（植物細胞の[脱分化](http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%82%B9_%28%E6%A4%8D%E7%89%A9%29) 前・後）[GSE15515](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15515));
 
 ----
 
