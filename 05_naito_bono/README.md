@@ -38,7 +38,8 @@
 | ラットcadherin | Cdh1 | 83502 |
  
 1. それぞれの関係
-![](/IDs.png)
+
+![それぞれの関係](IDs.png)
 
 ### 配列から遺伝子をさがす 
 - aatgagggtttgaatcgtgaccatttcttaagttttgcgtggtgcgtttatgataagctt (シロイヌナズナ)
