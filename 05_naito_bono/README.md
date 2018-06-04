@@ -61,8 +61,9 @@ http://ggrna.dbcls.jp/
 	- primer(F): agctcattactttatcagtgca
 	- primer(R): tgacgtattcactcttctggtt
 	- 増幅遺伝子のSymbol、Refseq ID、予想されるバンドのサイズを調べてみる
-## fold(←こたえはここをクリック,DGCR8, NM_001190326, 402bp&br;DGCR8, NM_022720, 501bp&br;同じ遺伝子の2つのvariantが増えてしまったらしい。)
-
+		- DGCR8, NM_001190326, 402bp
+		- DGCR8, NM_022720, 501bp
+		- 同じ遺伝子の2つのvariantが増えてしまったらしい。
 - 【実習3】マイクロアレイのプローブの場所を知りたい。
 	- Affymetrix社 GeneChipマイクロアレイの場合、1遺伝子につき25塩基×11対のプローブで検出
 	- プローブセットと呼ぶ。例：262888_at → [GGRNAで検索](http://ggrna.dbcls.jp/at/search.cgi?query=262888_at)
@@ -73,7 +74,7 @@ http://ggrna.dbcls.jp/
 ----
 
 ## [NCBI Gene Expression Omnibus (GEO)](http://www.ncbi.nlm.nih.gov/geo/) 
-&color(green){世界最大の遺伝子発現（[マイクロアレイ](http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4)）データベース（レポジトリ）};
+世界最大の遺伝子発現（[マイクロアレイ](http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4)）データベース（レポジトリ）
 
 ### 【実習4】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる 
 - [【統合TV】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011](http://togotv.dbcls.jp/20111020.html#p01) http://lifesciencedb.jp/image/small_video_icon.png
