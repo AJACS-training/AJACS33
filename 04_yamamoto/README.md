@@ -4,13 +4,13 @@
 
 ## PubMed検索最新情報とMeSH
 
--[PubMed](http://pubmed.tov/)
+- [PubMed](http://pubmed.tov/)
 
 PubMedの検索インターフェースは比較的頻繁に更新されます。普段利用している方も新しい機能やインターフェースについて確認しておくと良いと思います。
 
 NCBIによる動画チュートリアル
 
--http://www.youtube.com/watch?v=KGs547njZ7U 
+- http://www.youtube.com/watch?v=KGs547njZ7U 
 
 また、MeSHを利用することで、より効率的に目的の文献を見つけることが出来ます。これまで意識して利用したことの無い方は、この機会に試してみると良いと思います。
 
@@ -38,10 +38,8 @@ Allieでは略語を入力すると、その展開形の一覧を、それが出
 ### 試してみる。
 
 - CAT を検索
-
--共起略語をみて、Citrus関連文献でより多く使われているものは何か確認する
-
--目的の展開形について、詳細情報として実際に利用されている表現や文献リストを確認する
+- 共起略語をみて、Citrus関連文献でより多く使われているものは何か確認する
+- 目的の展開形について、詳細情報として実際に利用されている表現や文献リストを確認する
 
 その他、ROS や HPLC、SODについて、それぞれ展開形の候補リストや、各候補について、その意味で主に使われている研究分野や同じ文献で出現する共起略語を確認する。
 
@@ -84,13 +82,10 @@ TogoDocClientは各利用者のPCにインストールして利用するソフ�
 
 なお、TogoDocClientを利用することでPCに保存されているPDF形式ファイル名を予め指定した形式に一括変換出来ます。
 
--[TogoDoc](http://docman.dbcls.jp/pubmed_recom)
-
--[TogoDocClient](http://tdc.cb.k.u-tokyo.ac.jp/)
-
--[TogoDocMobile](http://itunes.apple.com/ja/app/togodocmobile/id498937296)
-
--[情報交換用twitter](http://twitter.com/togodoc)
+- [TogoDoc](http://docman.dbcls.jp/pubmed_recom)
+- [TogoDocClient](http://tdc.cb.k.u-tokyo.ac.jp/)
+- [TogoDocMobile](http://itunes.apple.com/ja/app/togodocmobile/id498937296)
+- [情報交換用twitter](http://twitter.com/togodoc)
 
 推薦機能を利用するにはオープンIDが必要になります。
 
