@@ -85,8 +85,11 @@ TogoDocClientは各利用者のPCにインストールして利用するソフ�
 なお、TogoDocClientを利用することでPCに保存されているPDF形式ファイル名を予め指定した形式に一括変換出来ます。
 
 -[TogoDoc](http://docman.dbcls.jp/pubmed_recom)
+
 -[TogoDocClient](http://tdc.cb.k.u-tokyo.ac.jp/)
+
 -[TogoDocMobile](http://itunes.apple.com/ja/app/togodocmobile/id498937296)
+
 -[情報交換用twitter](http://twitter.com/togodoc)
 
 推薦機能を利用するにはオープンIDが必要になります。
