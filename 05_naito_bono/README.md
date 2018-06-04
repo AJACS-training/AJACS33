@@ -1,4 +1,4 @@
-# 遺伝子発現DB・解析ツールの紹介};　　　　担当： 内藤 雄樹
+# 遺伝子発現DB・解析ツールの紹介　　　担当： 内藤 雄樹
 
 
 ----
@@ -38,7 +38,7 @@
 | ラットcadherin | Cdh1 | 83502 |
  
 1. それぞれの関係
-## ref(IDs.png)
+![](/IDs.png)
 
 ### 配列から遺伝子をさがす 
 - aatgagggtttgaatcgtgaccatttcttaagttttgcgtggtgcgtttatgataagctt (シロイヌナズナ)
